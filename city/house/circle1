@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Круглые дома 1 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Круглые дома 1</h1>
+
+<figure>
+<a href="21b.jpg"><img src="21.jpg"/></a>
+<a href="22b.jpg"><img src="22.jpg"/></a>
+<a href="23b.jpg"><img src="23.jpg"/></a>
+<a href="24b.jpg"><img src="24.jpg"/></a>
+<a href="25b.jpg"><img src="25.jpg"/></a>
+<a href="26b.jpg"><img src="26.jpg"/></a>
+<a href="27b.jpg"><img src="27.jpg"/></a>
+<a href="28b.jpg"><img src="28.jpg"/></a>
+<a href="29b.jpg"><img src="29.jpg"/></a>
+<a href="30b.jpg"><img src="30.jpg"/></a>
+<a href="31b.jpg"><img src="31.jpg"/></a>
+<a href="32b.jpg"><img src="32.jpg"/></a>
+<a href="33b.jpg"><img src="33.jpg"/></a>
+<a href="34b.jpg"><img src="34.jpg"/></a>
+<a href="35b.jpg"><img src="35.jpg"/></a>
+<a href="36b.jpg"><img src="36.jpg"/></a>
+<a href="37b.jpg"><img src="37.jpg"/></a>
+<a href="38b.jpg"><img src="38.jpg"/></a>
+<br/>
+<a href="http://open.az/novosti/shou-biznes/print:page,1,96359-jekodom-dlja-naomi-kjempbell-6-foto.html">Источник1</a>
+<a href="http://suizaoutfitters.com/ned/1112-mnogolikiy-kruglyy-dom.html/">Источник2</a>
+<a href="https://1dom.wordpress.com/2010/07/01/kruglyj-dom-v-shvecii/">Источник3</a>
+</figure>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/city/ru">Город</a></p>
+
+</main>
+<footer><div>7523-03-10 - 7523-06-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

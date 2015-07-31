@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Купольные дома 2 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Купольные дома 2</h1>
+
+<figure>
+<a href="41b.jpg"><img src="41.jpg"/></a>
+<a href="42b.jpg"><img src="42.jpg"/></a>
+<a href="43b.jpg"><img src="43.jpg"/></a>
+<a href="44b.jpg"><img src="44.jpg"/></a>
+<a href="45b.jpg"><img src="45.jpg"/></a>
+<a href="46b.jpg"><img src="46.jpg"/></a>
+<a href="47b.jpg"><img src="47.jpg"/></a>
+<a href="48b.jpg"><img src="48.jpg"/></a>
+<a href="49b.jpg"><img src="49.jpg"/></a>
+<a href="50b.jpg"><img src="50.jpg"/></a>
+<a href="51b.jpg"><img src="51.jpg"/></a>
+<br/>
+<a href="http://mamonino.livejournal.com/10879.html">Источник1</a>
+<a href="http://www.filmsgratiskijken.nl/video/show/tbookxGChqI/related_videos">Источник2</a>
+<a href="http://dom.dacha-dom.ru/krugly-dom.shtml">Источник3</a>
+</figure>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/city/ru">Город</a></p>
+
+</main>
+<footer><div>7523-03-10 - 7523-06-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

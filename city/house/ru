@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Дома - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Дома</h1>
+
+<p>
+Дома в поселении нового типа (в квартале поселка) имеют типовое назначение:
+<br/>
+1) Дома для индивидуального проживания семей;
+<br/>
+2) Дома-коворкинги для жизни и работы;
+<br/>
+3) Одного большого дома-коворкинка для проведения различных мероприятий и встреч.
+</p>
+
+<p>
+Центральный общий дом представляет из себя закрытую одноуровневую отапливаемую площадку с куполом. Назначение: проведение мероприятий различного рода, конференций, выставок, встречь, переговоров. В остальное время пространство трансфорируется под общий коворгинг с openspace пространством.
+</p>
+
+<p>
+Дома располагаются по радиально-кольцевой схеме в два ряда с общим домом в центре. Жилые дома имеют два уровня: 1) свободное трансформируемое пространство (openspace), 2) жилые комнаты-спальни для сна и отдыха. Часть домов выделяются под хостел с индивидуальными комнатами.
+</p>
+
+<p>
+Ниже представлены концепты домов.
+</p>
+
+
+
+
+<h2>Круглые дома</h2>
+
+
+<h3><a href="/city/house/circle1">Круглые дома 1</a></h3>
+<figure>
+<a href="/city/house/circle1"><img src="/city/house/21.jpg"/></a>
+</figure>
+
+
+<h3><a href="/city/house/circle2">Круглые дома 2</a></h3>
+<figure>
+<a href="/city/house/circle2"><img src="/city/house/52.jpg"/></a>
+</figure>
+
+
+<h3><a href="/city/house/scheme">Схемы круглых домов</a></h3>
+<figure>
+<a href="/city/house/scheme"><img src="/city/house/62.png"/></a>
+</figure>
+
+
+
+<h2>Купольные дома</h2>
+
+
+<h3><a href="/city/house/dome1">Купольные дома 1</a></h3>
+<figure>
+<a href="/city/house/dome1"><img src="/city/house/19.jpg"/></a>
+</figure>
+
+
+<h3><a href="/city/house/dome2">Купольные дома 2</a></h3>
+<figure>
+<a href="/city/house/dome2"><img src="/city/house/49.jpg"/></a>
+</figure>
+
+
+<!--a href="/city/house/dome3">Купольные дома 3</a-->
+
+
+<h3><a href="/7523/0615/1/ru">Строительство 10м купола и 4м бани (Московская обл., г.Кубинка)</a></h3>
+<figure>
+<a href="/7523/0615/1/ru"><img src="/7523/0615/1/00-640.jpg"/></a>
+</figure>
+
+
+<h3><a href="/7523/0615/2/ru">Строительство купола 12,94 м (Ярославская обл.)</a></h3>
+<figure>
+<a href="/7523/0615/2/ru"><img src="/7523/0615/2/00-640.jpg"/></a>
+</figure>
+
+<h3><a href="/7523/0615/3/ru">Строительство круглого дома (Солоновка, Алтай)</a></h3>
+<figure>
+<a href="/7523/0615/3/ru"><img src="/7523/0615/3/00-640.jpg"/></a>
+</figure>
+
+<h3><a href="/7523/0615/4/ru">Строительство круглого дома (под г.Новосибирск)</a></h3>
+<figure>
+<a href="/7523/0615/4/ru"><img src="/7523/0615/4/00-640.jpg"/></a>
+</figure>
+
+<h3><a href="/7523/0615/5/ru">Строительство 9-ти метрового круглого дома (Егорьевка, Алтайски край)</a></h3>
+<figure>
+<a href="/7523/0615/5/ru"><img src="/7523/0615/5/00-640.jpg"/></a>
+</figure>
+
+
+<br/>
+<br/>
+
+
+<h2><a href="/city/house/hitech">Hi-Tech</a></h2>
+<figure>
+<a href="/city/house/hitech"><img src="/city/house/93.jpg"/></a>
+</figure>
+
+
+<br/>
+<br/>
+
+
+<h2><a href="/city/house/container">Контейнерные</a></h2>
+<figure>
+<a href="/city/house/container"><img src="/city/house/103.jpg"/></a>
+</figure>
+
+
+<h2><a href="/city/house/mini">Мини-дома</a></h2>
+<figure>
+<a href="/city/house/mini"><img src="/city/house/105.jpg"/></a>
+</figure>
+
+
+<br/>
+<br/>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6HzdXGoOHnE" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/city/ru">Город</a></p>
+
+</main>
+<footer><div>7523-06-15 - 7523-07-27</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

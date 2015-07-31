@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Hi-Tech дома - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Hi-Tech дома</h1>
+
+<figure>
+<a href="91b.jpg"><img src="91.jpg"/></a>
+<a href="92b.jpg"><img src="92.jpg"/></a>
+<a href="93b.jpg"><img src="93.jpg"/></a>
+<a href="94b.jpg"><img src="94.jpg"/></a>
+<a href="99b.jpg"><img src="99.jpg"/></a>
+<br/>
+<a href="http://allday.in.ua/culture/news.php?id=52963">Источник1</a>
+<a href="http://reposters.ru/journalshowcomments.php?jpostid=267743569&journalid=5242045&go=prev&categ=0">Источник2</a>
+</figure>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/city/ru">Город</a></p>
+
+</main>
+<footer><div>7523-03-10 - 7523-06-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Схемы круглых домов - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Схемы круглых домов</h1>
+
+<figure>
+<a href="61b.jpg"><img src="61.jpg"/></a>
+<a href="62b.png"><img src="62.png"/></a>
+<a href="81b.jpg"><img src="81.jpg"/></a>
+<br/>
+<a href="http://ttolk.ru/?p=4397">Источник</a>
+</figure>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/city/ru">Город</a></p>
+
+</main>
+<footer><div>7523-03-10 - 7523-06-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

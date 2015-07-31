@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Город - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Город</h1>
+
+<p class="h">
+Свободный город
+<br/>
+Место для работы и жизни
+</p>
+
+<figure>
+<img src="img/logo/600x600.jpg"/>
+</figure>
+
+
+<div class="blocks blocks-front">
+
+<a href="/p/3/ru">
+<div style="max-width: 300px; min-height: 25em; width: 22em;">
+<figure>
+<img src="/p/3/img/logo/300x300.jpg"/>
+</figure>
+<h3>Деревня-21</h3>
+<p>Креативное поселение под Можайском</p>
+</div>
+</a>
+
+<a href="/p/17/ru">
+<div style="max-width: 300px; min-height: 25em; width: 22em;">
+<figure>
+<img src="/p/17/img/logo/300x300.jpg"/>
+</figure>
+<h3>УмноЖитель</h3>
+<p>Рекреационный комплекс и совместная работа над различными творческими проектами.</p>
+</div>
+</a>
+
+</div>
+
+
+<br/>
+
+
+<p class="h2">
+<a href="/p/3/ru">Деревня-21</a>
+<br/>
+<a href="/p/3/presentation">Деревня-21 как коворкинг-хакспейс</a>
+</p>
+
+<p class="h2">
+<a href="/land/ru">Земля</a>
+</p>
+
+
+<br/>
+<br/>
+
+
+
+
+<h2>Публикации</h2>
+
+<div class="article">
+<a href="/7523/0710/1/ru"><img src="/7523/0710/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0710/1/ru">Недвижимость</a><p>
+<p>
+Наблюдаем схлопывание рынка коммерческой недвижимости. Которое, по видимому, продлится года два. А может и больше.
+<a href="/7523/0710/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0612/1/ru"><img src="/7523/0612/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0612/1/ru">Бизнес-план общественной мастерской MakerSpace</a><p>
+<p>
+Сооснователь Artisan&#8217;s Asylum, Соммервиль, Массачусетс, США Гуи Кавальканти делится опытом построения бизнес-модели общественной мастерской MakerSpace.
+<a href="/7523/0612/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0611/1/ru"><img src="/7523/0611/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0611/1/ru">Милан: квартира 15 кв.м</a><p>
+<p>
+«Как келья» – классический образ маленького тесного и крайне аскетичного пространства. Дизайнер Сильвана Читтерио сумела доказать, что бывшая монастырская комната может быть комфортной и модной.
+<a href="/7523/0611/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0604/1/ru"><img src="/7523/0604/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0604/1/ru">Стиль Лофт</a><p>
+<p>
+Стиль Лофт (Loft) и Индастриал (Industrial).
+<a href="/7523/0604/1/ru">Подробнее...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0301/2/ru"><img src="/7523/0301/2/logo-320x200.jpg"></a>
+<p><a href="/7523/0301/2/ru">Прописка - это кандалы сдерживающие развитие общества</a><p>
+<p>
+"Прописка — государственная система контроля миграции населения, основной принцип которой заключается в жёсткой привязке граждан к их постоянному месту жительства"
+<a href="/7523/0301/2/ru">Подробнее...</a>
+</p>
+</div>
+
+
+<br/>
+<br/>
+
+
+<p class="h2">
+<a href="venus/ru">Проект Венера</a>
+</p>
+
+<figure>
+<a href="venus/ru"><img src="venus/30.jpg"/></a>
+</figure>
+
+<br/>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/llqOL2KrBR0" frameborder="0" allowfullscreen></iframe>
+<br/>
+GEEK Industrial MeetUP: DRONE - Про города будущего (2015-07-05)
+</figure>
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/ru">Главная</a></p>
+
+</main>
+<footer><div>7523-02-01 - 7523-07-18</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="en"/>
+<title>City - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>City</h1>
+
+<p class="h">
+Free city
+<br/>
+Place for work and life
+</p>
+
+<figure>
+<img src="img/logo/600x600.jpg"/>
+</figure>
+
+<p class="h2">
+<a href="/p/3/en">Derevnya-21</a>
+<br/>
+<a href="/p/3/presentation">Village-21 as a coworking hackspace</a>
+</p>
+
+
+<p class="h2">
+<a href="/land/en">Land</a>
+</p>
+
+
+<br/>
+<br/>
+
+
+<h2>Publications</h2>
+
+<div class="article">
+<a href="/7523/0612/1/en"><img src="/7523/0612/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0612/1/en">Business Plan Public Workshop MakerSpace</a><p>
+<p>
+Co-founder of Artisan&#8217;s Asylum, Somerville, MA, USA Gui Cavalcanti shares his experience of building a business model of public workshop MakerSpace.
+<a href="/7523/0612/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0611/1/en"><img src="/7523/0611/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0611/1/en">Milan: Apartment 15 sq.m.</a><p>
+<p>
+"As cell" - the classic image of a little close and extremely austere space. Designer Citterio Silvana was able to prove that the former monastery room can be comfortable and fashionable.
+<a href="/7523/0611/1/en">Read more...</a>
+</p>
+</div>
+
+<div class="article">
+<a href="/7523/0604/1/en"><img src="/7523/0604/1/logo-320x200.jpg"></a>
+<p><a href="/7523/0604/1/en">The Loft style</a><p>
+<p>
+The Loft and Industrial styles.
+<a href="/7523/0604/1/en">Read more...</a>
+</p>
+</div>
+
+
+<br/>
+<br/>
+
+
+<p class="h2">
+<a href="venus/en">Venus project</a>
+</p>
+
+<figure>
+<a href="venus/en"><img src="venus/30.jpg"/></a>
+</figure>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/en">Main</a></p>
+
+</main>
+<footer><div>7523-02-01 - 7523-06-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

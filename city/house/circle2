@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Круглые дома 2 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Круглые дома 2</h1>
+
+<figure>
+<a href="52b.jpg"><img src="52.jpg"/></a>
+<a href="53b.jpg"><img src="53.jpg"/></a>
+<a href="54b.jpg"><img src="54.jpg"/></a>
+<a href="55b.jpg"><img src="55.jpg"/></a>
+<a href="56b.jpg"><img src="56.jpg"/></a>
+<a href="57b.jpg"><img src="57.jpg"/></a>
+<a href="58b.jpg"><img src="58.jpg"/></a>
+<a href="59b.jpg"><img src="59.jpg"/></a>
+<a href="60b.jpg"><img src="60.jpg"/></a>
+</figure>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/city/ru">Город</a></p>
+
+</main>
+<footer><div>7523-03-10 - 7523-06-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

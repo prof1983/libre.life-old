@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Контейнерные - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Контейнерные</h1>
+
+<p>
+Lifestyle HOME 120.1
+</p>
+
+<p>
+Загородный дом из морских контейнеров с внешней отделкой из деревянных реек площадью 120 м2
+Прочность конструкции обеспечивается за счет использования морских контейнеров. Утепление производится пенополиуретановым утеплителем толщиной 100-150 мм, не вструпающим в реакцию с внешней средой. Дом сконструирован в том числе и для сейсмических зон с возможностью землятресений до 5 баллов.
+</p>
+
+<p>
+Стоимость - $1000 за м2 общей площади.
+</p>
+
+<figure>
+<a href="101b.jpg"><img src="101.jpg"/></a>
+<a href="102b.jpg"><img src="102.jpg"/></a>
+<a href="103b.jpg"><img src="103.jpg"/></a>
+<a href="104b.jpg"><img src="104.jpg"/></a>
+<!--img src="../img/house03.jpg"/-->
+</figure>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/city/ru">Город</a></p>
+
+</main>
+<footer><div>7523-03-10 - 7523-06-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>

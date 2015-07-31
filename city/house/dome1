@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/main.css"/>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Language" content="ru"/>
+<title>Купольные дома 1 - Libre</title>
+</head>
+<body>
+<header></header><script src="/js/header.js"></script>
+<main>
+
+<h1>Купольные дома 1</h1>
+
+<figure>
+<a href="01b.jpg"><img src="01.jpg"/></a>
+<a href="02b.jpg"><img src="02.jpg"/></a>
+<a href="03b.jpg"><img src="03.jpg"/></a>
+<a href="04b.jpg"><img src="04.jpg"/></a>
+<a href="05b.jpg"><img src="05.jpg"/></a>
+<a href="06b.jpg"><img src="06.jpg"/></a>
+<a href="07b.jpg"><img src="07.jpg"/></a>
+<a href="08b.jpg"><img src="08.jpg"/></a>
+<a href="09b.jpg"><img src="09.jpg"/></a>
+<a href="10b.jpg"><img src="10.jpg"/></a>
+<a href="11b.jpg"><img src="11.jpg"/></a>
+<a href="12b.jpg"><img src="12.jpg"/></a>
+<a href="13b.jpg"><img src="13.jpg"/></a>
+<a href="14b.jpg"><img src="14.jpg"/></a>
+<a href="15b.jpg"><img src="15.jpg"/></a>
+<a href="16b.jpg"><img src="16.jpg"/></a>
+<a href="17b.jpg"><img src="17.jpg"/></a>
+<a href="18b.jpg"><img src="18.jpg"/></a>
+<a href="19b.jpg"><img src="19.jpg"/></a>
+<br/>
+<a href="http://efachka.ru/post174676607/">Источник1</a>
+<a href="http://metod-sunduchok.ucoz.ru/load/32-1-0-1784">Источник2</a>
+<a href="http://www.domespace.ru/comfort/">Источник3</a>
+</figure>
+
+
+<br/>
+<br/>
+
+
+<p class="h2"><a href="/city/ru">Город</a></p>
+
+</main>
+<footer><div>7523-03-10 - 7523-06-15</div></footer><script src="/js/footer.js"></script>
+</body>
+</html>
